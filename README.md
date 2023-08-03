@@ -1,2 +1,2 @@
 # Amazon-Clone
-This repository contains Amazon landing page clone (Desktop Version)
+This repository contains source code of Amazon landing page clone (Desktop Version)
